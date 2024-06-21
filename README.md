@@ -5,7 +5,9 @@ doc: https://developers.metaplex.com/token-metadata
 
 It is a program:Token Metadata program. The metadata is in Metadata Account (PDA derived from Mint Account). There are a lot of Token Standard, especially for NFT
 
-The js code is shown.
+The npm package is shown.
+
+The token: https://explorer.solana.com/address/SuRsHWokti5MS1ckLwaqNmD8SqCUnjwamE9L6VitzW9/metadata?cluster=devnet
 ## 2. SPL Token-2022 program
 doc: https://spl.solana.com/token-2022
 
